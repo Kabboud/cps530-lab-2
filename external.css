@@ -1,0 +1,14 @@
+body {background-color:#c5d7ee}
+header {font-size: 50px; text-align: center}
+nav {text-align: center; font-size: 18px}
+img.ryerson {width:225px; padding:10px; border:10px solid black; margin:1px}
+footer {text-align: center; position:relative; bottom:0; width:100%}
+div {text-align: center}
+button {position:absolute; bottom:420px; left:880px}
+#smile {width:500px; float:right; visibility:visible}
+#circle {position:relative; left:700px; z-index: -1}
+#hiding {width:200px; display:none}
+#smile:hover {background-color:red}
+#contact {position:relative; bottom:50px; width:200px; margin:auto;}
+:target {background-color: #33FF9C}
+pre::first-letter {font-size: 200%; color:blue}
